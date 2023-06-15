@@ -1,7 +1,6 @@
 # Papers-in-your-hand
 
-# Reference
-
+- https://www.ais.cn/
 - https://www.ccf.org.cn/
 - https://github.com/ccfddl/ccf-deadlines
 - https://aideadlin.es/
